@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TimiPassAS.iml" filepath="$PROJECT_DIR$/.idea/modules/TimiPassAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/TimiPassAS.launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/TimiPassAS.launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/TimiPassAS.unityLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/TimiPassAS.unityLibrary.iml" />
+    </modules>
+  </component>
+</project>
