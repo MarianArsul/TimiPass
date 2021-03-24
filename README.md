@@ -7,7 +7,7 @@ Timis,oara, Rom^ania by pointing their travel card to the phone's back camera.
 Download (.apk): https://cutt.ly/KjSaKRz or from Releases
 
 # How to use
-Point a STPT travel card to the back camera of your device, or use a sample image like: shorturl.at/cfgoN.
+Point a STPT travel card to the back camera of your device, or use a sample image like: https://shorturl.at/cfgoN
 
 # Screenshots
 ![alt text](https://github.com/milovanarsul/TimiPass/blob/master/Screenshot_20210120-140510_TimiPass_-_AR_Maps.png)
