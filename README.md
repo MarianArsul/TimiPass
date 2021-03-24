@@ -8,6 +8,7 @@ Download (.apk): https://cutt.ly/KjSaKRz or from Releases
 
 # How to use
 Point a STPT travel card to the back camera of your device, or use a sample image like: https://shorturl.at/cfgoN
+
 After the card is recognized, you can tap on any of the three options to view their respective maps.
 
 # Screenshots
