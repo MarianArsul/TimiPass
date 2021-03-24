@@ -10,7 +10,10 @@ Download (.apk): https://cutt.ly/KjSaKRz or from Releases
 Point a STPT travel card to the back camera of your device, or use a sample image like: shorturl.at/cfgoN.
 
 # Screenshots
-![alt text](https://drive.google.com/file/d/1m7Cxy-GkIXnuggElpcME07kJjqIk3xx-/view?usp=sharing)
+![alt text](https://github.com/milovanarsul/TimiPass/blob/master/Screenshot_20210120-140510_TimiPass_-_AR_Maps.png)
+![alt text](https://github.com/milovanarsul/TimiPass/blob/master/Screenshot_20210120-140533_TimiPass_-_AR_Maps.png)
+![alt text](https://github.com/milovanarsul/TimiPass/blob/master/Screenshot_20210120-140548_TimiPass_-_AR_Maps.png)
+![alt text](https://github.com/milovanarsul/TimiPass/blob/master/Screenshot_20210120-140613_TimiPass_-_AR_Maps.png)
 
 # Fair use & Creative Commons
 Please, if you are reusing any code from this project in your app, don't forget to link to this repository.
