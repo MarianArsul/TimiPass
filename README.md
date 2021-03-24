@@ -1,4 +1,4 @@
-# TimiPass EN
+# TimiPass
 
 A mobile application for Android which hopes to revolutionize the public transport system.
 With this application on hand, users can see and experience a 3D map of the bus network in
